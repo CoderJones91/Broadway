@@ -78,6 +78,13 @@ p{
     font-size: 19px;
     margin: 25px auto; 
 }
+.foot{
+    /* Div Class for Footer */
+    background-color: dimgray;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
 .footp{
     /* Styles for Copyright Text */
     font-size: 11px;
@@ -86,11 +93,4 @@ p{
     margin: 0;
     padding: 0;
 
-}
-.foot{
-    /* Div Class for Footer */
-    background-color: dimgray;
-    text-align: left;
-    margin: 0;
-    padding: 0;
 }
