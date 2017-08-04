@@ -61,7 +61,7 @@ h3{
 }
 .wrkban{   
     /* Div Class Styles for Work Banner */
-    background-image: url("Flatiron.PNG");
+    background-image: url(../../resources/images/flatiron.png);
     background-position: right;
     color: white;
     font-size: 28px;
