@@ -1,4 +1,4 @@
-*{/* Add to all sytles */
+*{  /* Add to all sytles */
     font-family: Helvetica, sans-serif;
     text-align: center;
     margin: 0;
@@ -42,12 +42,39 @@ h2{
     margin: 15px 0;
 }
 h3{
-    /* Add margin to subheadings for Process */
-    margin: 12px 0;
+    /* Add margin & size to all subheadings*/
+    margin: 15px 0;
+    font-size: 23px;
 }
 .prop{
-    /* Styles for Process descriptions */
+    /* Styles for Process Descriptions */
+    font-family: cursive;
+    font-weight: bold;  
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+.team{
+    /* Div Class Style for Work Section */
+    margin: 15px;
+
+    
+}
+.wrkban{   
+    /* Div Class Styles for Work Banner */
+    background-image: url(/Users/anthony/Github/CodecademyProjects/Broadway/resources/images/flatiron.png);
+    background-position: right;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 10px 0 10px 0;
+    margin:25px 0 25px 0;
+    font-family: cursive;
+
+}
+p{
+    /* Styles for Work, Team, and Contact Descriptions */
     font-family: cursive;
     font-weight: bold;
-    
+    font-size: 19px;
+    margin: 25px auto; 
 }
