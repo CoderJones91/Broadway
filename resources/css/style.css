@@ -1,31 +1,53 @@
-*{
-    text-align: center;
+*{/* Add to all sytles */
     font-family: Helvetica, sans-serif;
-    margin: 0 auto;
-    padding: 0 auto;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
 h1{
+    /* Style for Main Heading */
     color: white;
     font-size: 70px;
     font-weight: bold;
     font-family: cursive;
     margin-bottom: 39px;
 }
-a{
+.titlenav{
+    /* Div Class Styles for Nav */
+    background-image: url(/Users/anthony/GitHub/CodecademyProjects/Broadway/resources/images/flatiron.png);
+    background-position: right; 
+}
+a, ul, li{
+    /* Additional Styles for Nav */
     color: white;
-    font-size: 18px;
-    
-}
-ul{
-    list-style: none;
-}
-li{
+    font-size: 18px; 
+    list-style: none; 
     margin: 10px auto;
     font-weight: bold;
 }
-.titlenav{
-    background-image: url(/Users/anthony/GitHub/CodecademyProjects/Broadway/resources/images/flatiron.png);
-    background-position: right;
-    
+.pro{
+    /* Div Class Styles for Process */
+    position: left;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    /* Add top margin to Main Heading for Process */
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 32px;
+}
+.proimgs{
+    /* Add margin to Process Images */
+    margin: 15px 0;
+}
+h3{
+    /* Add margin to subheadings for Process */
+    margin: 12px 0;
+}
+.prop{
+    /* Styles for Process descriptions */
+    font-family: cursive;
+    font-weight: bold;
     
 }
