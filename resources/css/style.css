@@ -14,7 +14,7 @@ h1{
 }
 .titlenav{
     /* Div Class Styles for Nav */
-    background-image: url(..//resources/images/flatiron.png);
+    background-image: url(../../resources/images/flatiron.png);
     background-position: right; 
 }
 a, ul, li{
@@ -61,7 +61,7 @@ h3{
 }
 .wrkban{   
     /* Div Class Styles for Work Banner */
-    background-image: url(/Users/anthony/Github/CodecademyProjects/Broadway/resources/images/flatiron.png);
+    background-image: url(../../resources/images/flatiron.png);
     background-position: right;
     color: white;
     font-size: 28px;
