@@ -14,7 +14,7 @@ h1{
 }
 .titlenav{
     /* Div Class Styles for Nav */
-    background-image: url(/Users/anthony/GitHub/CodecademyProjects/Broadway/resources/images/flatiron.png);
+    background-image: url(..//resources/images/flatiron.png);
     background-position: right; 
 }
 a, ul, li{
