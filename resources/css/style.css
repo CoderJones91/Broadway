@@ -24,6 +24,7 @@ a, ul, li{
     list-style: none; 
     margin: 10px auto;
     font-weight: bold;
+    text-decoration: none;
 }
 .pro{
     /* Div Class Styles for Process */
